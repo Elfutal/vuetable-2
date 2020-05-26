@@ -317,6 +317,7 @@ export default {
       type: Array,
       required: true
     },
+    
     loadOnStart: {
       type: Boolean,
       default: true
